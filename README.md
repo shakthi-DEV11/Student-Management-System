@@ -151,5 +151,5 @@ Building this project provided hands-on experience with:
 ## Author
 
 **Shakthi Nagarajan**
-* GitHub: [GitHub Profile]
-* LinkedIn: [LinkedIn Profile]
+* GitHub: [https://github.com/shakthi-DEV11](https://github.com/shakthi-DEV11)
+* LinkedIn: [https://www.linkedin.com/in/shakthi-nagarajan-335387357/](https://www.linkedin.com/in/shakthi-nagarajan-335387357/)
